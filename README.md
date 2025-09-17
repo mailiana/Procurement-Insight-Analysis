@@ -57,7 +57,6 @@ The dataset consists of **777 rows and 11 columns**.
 # The Dashboard
 <img width="1278" height="714" alt="Screenshot 2025-09-17 191006" src="https://github.com/user-attachments/assets/165e2a2f-8842-492d-bc8d-db42494066ac" />
 
-![Procurement Dashboard](9292e889-a018-4715-a304-9f243f78fbbe.png)
 
 
 # The Insights
